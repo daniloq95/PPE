@@ -2,8 +2,9 @@
 
 ## Prueba técnica Realizada por Danilo Quiroga 
 
+### Información de importancia
 
-
+* Dentro del SRC se encuentra 3 diferentes clases, dónde cada uno corresponde a los puntos a desarrollar.
 <ul>
 <li>Dentro del SRC se encuentra 3 diferentes clases, dónde cada uno corresponde a los puntos a desarrollar.</li>
 
