@@ -1,5 +1,6 @@
 # PPE
-Prueba técnica Realizada por Danilo Quiroga
+<h2> Prueba técnica Realizada por Danilo Quiroga </h2>
+
 
 Dentro del SRC se encuentra 3 diferentes clases, dónde cada uno corresponde a los puntos a desarrollar.
 
