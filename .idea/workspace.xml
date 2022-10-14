@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c81c18bb-c9c1-4761-a161-10b787efca29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PruebaTecnica.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Primero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Segundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Segundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tercero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tercero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +62,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Tercero" />
-        <item itemvalue="Application.Segundo" />
         <item itemvalue="Application.Primero" />
+        <item itemvalue="Application.Segundo" />
       </list>
     </recent_temporary>
   </component>
