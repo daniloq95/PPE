@@ -12,3 +12,7 @@ Por ejemplo, se pregunta cuantos calcetines en el primero, o la edad en el terce
  * Los nombres corresponden en el orden del documento recibido:
  
     * `Primero.java` 
+    * `Segundo.java`  
+    * `Tercero.java` 
+ 
+ 
